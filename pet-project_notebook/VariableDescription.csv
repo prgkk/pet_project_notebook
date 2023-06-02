@@ -1,0 +1,686 @@
+"Variable Name","Variable Label","Answer Label"
+"child_id","Unique child ID","Open ended"
+"data_year","Year data was collected","Open ended"
+"child_date","ELOM date","Open ended"
+"child_age","Child age in months","Open ended"
+"child_enrolment_date","Date enrolled in ELP","Open ended"
+"child_months_enrolment","Months enrolled at ELP","Open ended"
+"child_grant","Does the childs primary caretaker receive the Child Support Grant?",
+"child_years_in_programme","For how many years has this child been in the programme?",
+"child_height","Child height in cm","Open ended"
+"target","Total for Elom over all items","Open ended"
+"child_gender","Child gender",
+"child_dob","Child date of birth","Open ended"
+"child_age_group","Age group category",
+"child_zha","Height for age based on WHO criteria (z-score)","Open ended"
+"child_stunted","Stunted indicator",
+"id_team","ID Team","Open ended"
+"phase_natemis","Phase of nearest registered school","Open ended"
+"child_observe_attentive","Did the child pay attention to the instructions and demonstrations throughout...",
+"child_observe_concentrated","Did the child stay concentrated and on task during the activities and was not...",
+"child_observe_diligent","Was the child careful and diligent on tasks? Was child interested in accuracy?",
+"child_observe_interested","Was the child interested and curious about the tasks throughout the assessment?",
+"child_observe_total","Total score from observing the child during assessments","Open ended"
+"id_mn_best","Municipality : Best ID (geo data)","Open ended"
+"prov_best","Province : Best (geo data)","Open ended"
+"id_prov","Province : Best ID (geo data)","Open ended"
+"id_dc_best","District : Best ID (geo data)","Open ended"
+"dc_best","District : Best (geo data)","Open ended"
+"mn_best","Municipality : Best (geo data)","Open ended"
+"id_ward","Ward : Best ID (geo data)","Open ended"
+"ward_best","Ward : Best (geo data)","Open ended"
+"id_enumerator","ID enumerator","Open ended"
+"language_match","Language of assessment is the same as home language","Open ended"
+"gps_ind","Data Indicator: Geolocation available","Open ended"
+"pre_covid","Pre-COVID indicator: ""Pre-COVID set before the 18th of March 2020""","Open ended"
+"language_child","What language does the child usually speak at home?","Open ended"
+"language_assessment","In what language are you conducting the assessment?","Open ended"
+"count_register_all","How many children are registered with the ECD Programme?","Open ended"
+"count_staff_all","How many staff does this ECD Programme have?","Open ended"
+"count_children_present","How many children are present at the ECD Programme today?","Open ended"
+"count_children_attendance","How many children usually attend the ECD Programme, on average?","Open ended"
+"count_children_precovid","How many children usually attended the ECD programme before the start of COVID on average""","Open ended"
+"gps","Is the indoor play areas floor space large enough for children to safely move around?","Open ended"
+"latitude","Latitude","Open ended"
+"longitude","Longitude","Open ended"
+"obs_firstaid","Has the appointed first aid officer received first aid training?",
+"count_register_gender_female","Female","Open ended"
+"count_register_gender_male","Male","Open ended"
+"count_register_gender_other","Other","Open ended"
+"count_register_gender","Count Register Gender","Open ended"
+"count_register_year_2021",2021,"Open ended"
+"count_register_year_2020",2020,"Open ended"
+"count_register_year_2019",2019,"Open ended"
+"count_register_year_2018",2018,"Open ended"
+"count_register_year_2017",2017,"Open ended"
+"count_register_year_2016",2016,"Open ended"
+"count_register_year_2015",2015,"Open ended"
+"count_register_year_2014",2014,"Open ended"
+"count_register_year_2013",2013,"Open ended"
+"count_register_year_school","Count Register Year School Age","Open ended"
+"count_register_year_grader","Count Register Year Grade R","Open ended"
+"grade_r","There are at least ${count_register_year_grader} children who are old enough (born before 2018) to attend Grade R. Does the ECD Programme have CAPS Grade R curriculum (2021) materials for these children?",
+"count_register_race_african","African/Black","Open ended"
+"count_register_race_coloured","Coloured","Open ended"
+"count_register_race_indian","Indian/Asian","Open ended"
+"count_register_race_white","White","Open ended"
+"count_register_race_other","Other","Open ended"
+"count_register_race","Count Register Race","Open ended"
+"count_staff_qual_skills","Accredited skills programme","Open ended"
+"count_staff_qual_nqf4_5","NQF Level 4-5: ECD","Open ended"
+"count_staff_qual_nqf6_9","NQF Level 6-9: ECD","Open ended"
+"obs_classrooms","How many classrooms are there?","Open ended"
+"obs_space","Is the indoor play areas floor space large enough for children to safely move...",
+"obs_area","Can you identify themed areas at the ECD Programme? Which ones?","Open ended"
+"obs_materials","Which of these materials are available to the children?","Open ended"
+"obs_materials_1","Children's books, Storybooks, any books with text or pictures, including books made by an ECD practitioner",
+"obs_materials_2","Puzzles, Games with numbers or shapes",
+"obs_materials_3","Wooden or plastic blocks children can play with (not LEGO or similar brands)",
+"obs_materials_4","LEGO or similar brands (blocks and pieces that fit into each other and be taken",
+"obs_materials_5","Picture cards, posters, charts",
+"obs_materials_6","Paint, Crayons, Chalk",
+"obs_materials_7","Pencils, pens",
+"obs_materials_8","Glue, Paper, Scissors (for children), Tape",
+"obs_materials_9","Clay, Play dough",
+"obs_materials_10","Dolls, Stuffed animals, Toy cars, Toys from recycled materials",
+"obs_materials_11","Toys from recycled materials",
+"obs_materials_12","Dress up clothes, Masks, Pretend food, pots and pans",
+"obs_materials_13","Any materials for counting, e.g. bottle caps, dice, beads, rocks etc or Abacus",
+"obs_materials_14","Balls, Hula-hoops, Sandbags",
+"obs_materials_15","Buckets, Spades, Sand moulds",
+"obs_materials_16","Skipping ropes, Scooters",
+"obs_materials_17","Chairs, desks or tables for children",
+"obs_materials_18","Carpets to play on, Sleeping mats",
+"obs_materials_19","Theme tables",
+"obs_materials_20","Drums, triangles, cymbals, maracas, bells, shakers, tambourines",
+"obs_materials_97","Other",
+"obs_materials_0","None of these",
+"obs_materialsother","What other materials are available to the children?","Open ended"
+"obs_accessible","Are the materials on offer generally accessible to the children?",
+"obs_books","Are there at least 10 children’s books available for children to play with?",
+"obs_books_age","Are there age-appropriate books for different age groups?",
+"obs_heating_census","What is the main source of power and energy for heating?",
+"obs_lighting_census","What is the main source of power and energy for lighting?",
+"obs_cooking_census","What is the main source of power and energy for cooking?",
+"obs_water","What is the main source of water?",
+"obs_waterother","What is the main source of water? (Other)","Open ended"
+"obs_potable","Is the water drinkable?",
+"obs_handwashing","What is the handwashing facility in use at this ECD Programme?","Open ended"
+"obs_handwashing_1","Tap",
+"obs_handwashing_2","Tippy-tap",
+"obs_handwashing_3","Bowl/Bucket",
+"obs_handwashing_0","None",
+"obs_handwashing_97","Other",
+"obs_toilet","What are the types of toilet in use at this ECD Programme?","Open ended"
+"obs_toilet_1","Flush toilet (connected to sewage systems)",
+"obs_toilet_2","Flush toilet (with septic tank)",
+"obs_toilet_3","Chemical toilet",
+"obs_toilet_4","Pit latrine, with ventilation (VIP)",
+"obs_toilet_5","Pit latrine without ventilation",
+"obs_toilet_6","Bucket latrine",
+"obs_toilet_7","Potties",
+"obs_toilet_8","Toilets for people with disabilities",
+"obs_toilet_0","None",
+"obs_toilet_97","Other",
+"obs_toilets_children","Are there separate toilet facilities for staff and learners?",
+"obs_toilets_gender","Are there separate toilet facilities for girls and boys?",
+"count_toilets_children","How many childrens toilets are there?","Open ended"
+"count_toilets_adults","How many adults toilets are there?","Open ended"
+"obs_building","In what type of building does the ECD Programme operate?",
+"obs_shared","Is the building being used only for this ECD programme or for other activities?",
+"obs_outdoor","Is there an outdoor play area?",
+"obs_equipment","What outside playground equipment does the centre have?","Open ended"
+"obs_equipment_0","None",
+"obs_equipment_1","Jungle gym",
+"obs_equipment_2","Swings",
+"obs_equipment_3","Slide",
+"obs_equipment_4","Sand tray/pit",
+"obs_equipment_5","Seesaw swing",
+"obs_equipment__1","Don't know",
+"obs_condition_equipment","What condition is the outside playground equipment in?",
+"obs_fence","Is there a fence or around the premises used by the ECD Programme?",
+"obs_gate","Is there a lockable gate to prevent unauthorised access to the premises used ...",
+"obs_access","Is there someone checking who enters and leaves the facility?",
+"census","Census data merged",
+"urban","Urban Rural",
+"quintile","DBE school Quintile (school or nearest school)","Open ended"
+"obs_date","Date","Open ended"
+"obs_water_running","Is there running water in the facility on the day of the visit?",
+"obs_water_running_none","Why is there no running water?","Open ended"
+"obs_handwashingother","What is the handwashing facility in use at this ECD Programme? (Other)","Open ended"
+"obs_handwashing_friendly","Are the handwashing facilities child friendly?",
+"obs_toilet_clean","Are the toilets clean and safe for children to use?",
+"obs_toilet_paper","Is toilet paper available in the toilets?",
+"obs_heating","What is the main source of power and energy for heating?",
+"obs_lighting","What is the main source of power and energy for lighting?",
+"obs_cooking","What is the main source of power and energy for cooking?",
+"obs_electricity_working","Is there working electricity in the facility on the day of the visit?",
+"obs_safety","Are the following health and safety practices put in place?","Open ended"
+"obs_safety_1","Exit or evacuation plan visibly displayed",
+"obs_safety_2","Adequately resourced first aid kit",
+"obs_safety_3","Appointed first aid officer",
+"obs_safety_4","Fire extinguishers/sand buckets/fire blankets",
+"obs_safety_5","Fire extinguishers up to date (not expired)",
+"obs_safety_6","Accident/injury file",
+"obs_safety_7","Displayed contact list of emergency services?(police, ambulance etc.)",
+"obs_safety_8","Area for food preparation separate and away from the children",
+"obs_safety_9","Safe and enclosed refuse area",
+"obs_safety_10","Harmful substances locked away at all times",
+"obs_safety_0","None of these",
+"obs_menu_display","Is there menu that is displayed somewhere in the facility?",
+"obs_menu_compliance","Does the menu comply with the Department of Health Guidelines?",
+"obs_menu_same","Is the food provided on the day of the visit the same as on the menu?",
+"obs_material_display","Are there learning and teaching support materials displayed against the walls?",
+"obs_hazard","Are any of these safety hazards observed?","Open ended"
+"obs_hazard_1","Broken or uneven floors",
+"obs_hazard_2","Broken chairs or tables",
+"obs_hazard_3","Sharp or rusting play materials",
+"obs_hazard_4","A leaking roof or holes in the ceiling",
+"obs_hazard_5","Broken windows or doors",
+"obs_hazard_6","Open pits/ holes",
+"obs_hazard_7","Rocky/ littered playground",
+"obs_hazard_8","Exposed electrical cables/ wiring",
+"obs_hazard_97","Other conditions likely to cause injury to children",
+"obs_hazard_0","None of these",
+"obs_fencing_play_area","Does the outside play area have a fence around?",
+"opening_hours","Opening Hours","Open ended"
+"count_register_foreign","Foreign Nationals","Open ended"
+"count_present_girls","How many girls are present on the day of the baseline assessment?","Open ended"
+"count_present_boys","How many boys are present on the day of the baseline assessment?","Open ended"
+"count_staff_gender_female","Female","Open ended"
+"count_staff_gender_male","Male","Open ended"
+"count_staff_gender_other","Other","Open ended"
+"count_staff_gender","Count Staff Gender","Open ended"
+"count_staff_contract_permanent","Permanent","Open ended"
+"count_staff_contract_temporary","Temporary","Open ended"
+"count_staff_contract_substitute","Substitutes","Open ended"
+"count_staff_contract","Count Staff Contract","Open ended"
+"count_staff_time_full","Full-time","Open ended"
+"count_staff_time_part","Part-time","Open ended"
+"count_staff_time","Count Staff Time","Open ended"
+"count_staff_salary_paid","How many of the staff worked for pay at this ECD programme...","Open ended"
+"count_staff_salary_unpaid","How many of the staff worked at this ECD programme last mo...","Open ended"
+"count_staff_salary","Count Staff Salary","Open ended"
+"count_staff_paid_practitioners","Practitioners","Open ended"
+"count_staff_paid_assistants","Assistant practitioners","Open ended"
+"count_staff_paid_cooks","Cooks","Open ended"
+"count_staff_paid_maintenance","Gardening and maintenance","Open ended"
+"count_staff_paid_managers","Managers","Open ended"
+"count_staff_paid_support","Support Staff","Open ended"
+"count_staff_paid","Paid Staff","Open ended"
+"professionals_practitioners","Do at least some of the ${count_staff_managers} managerial staff also work as ECD practitioners?",
+"count_practitioners_all","Total Practitioners","Open ended"
+"count_practitioners_age_0","0-11 months","Open ended"
+"count_practitioners_age_1","1 year olds","Open ended"
+"count_practitioners_age_2","2 year olds","Open ended"
+"count_practitioners_age_3","3 year olds","Open ended"
+"count_practitioners_age_4","4 year olds","Open ended"
+"count_practitioners_age_5","5 year olds","Open ended"
+"count_practitioners_age_6","6 year olds","Open ended"
+"health","In 2019, have any Community Health Workers/ Nurses/Department of Health offic...","Open ended"
+"healthother","What else did the Community Health Workers/ Nurses/Department of Health offic...","Open ended"
+"certificate_registration_partial","DSD partial care registration",
+"certificate_registration_program","DSD ECD programme registration",
+"certificate_registration_npo","NPO registration",
+"certificate_register","First page of the ECD programmes register",
+"practitioner","Is this the same practitioner whose class was assessed?",
+"other_practitioner","Please explain why you are interviewing a different practitioner.","Open ended"
+"plan","Do you make use of an activity/lesson plan?",
+"facility_type","Type of facility",
+"sanitation_educators","What type of sanitation facilities are available on the school site for educators?","Open ended"
+"sanitation_learners","What type of sanitation facilities are available on the school site for learners?","Open ended"
+"positionother","What is your position in the school?","Open ended"
+"positionotherreason","Please explain why you were not able to speak with the principal, deputy principal?","Open ended"
+"ses_cat","Updated SES category","Open ended"
+"obs_heating_1","heating==None",
+"obs_heating_2","heating==Electricity from mains",
+"obs_heating_3","heating==Electricity from generator",
+"obs_heating_4","heating==Gas",
+"obs_heating_5","heating==Solar",
+"obs_heating_6","heating==Paraffin",
+"obs_heating_7","heating==Other",
+"obs_lighting_1","lighting==None",
+"obs_lighting_2","lighting==Electricity from mains",
+"obs_lighting_3","lighting==Electricity from generator",
+"obs_lighting_4","lighting==Gas",
+"obs_lighting_5","lighting==Candles",
+"obs_lighting_6","lighting==Solar",
+"obs_lighting_8","lighting==Paraffin",
+"obs_cooking_1","cooking==None",
+"obs_cooking_2","cooking==Electricity from mains",
+"obs_cooking_3","cooking==Gas",
+"obs_cooking_4","cooking==Solar",
+"obs_cooking_5","cooking==Paraffin",
+"obs_cooking_6","cooking==Other",
+"elp_ind","Data Indicator:ELP characteristics variables available",
+"id_facility","Facility ID","Open ended"
+"pqa_date","Date","Open ended"
+"pqa_class_age","Age range of children in the class","Open ended"
+"pqa_class_age_1","0-17 months",
+"pqa_class_age_2","18-35 months",
+"pqa_class_age_3","3 years",
+"pqa_class_age_4","4 years",
+"pqa_class_age_5","5 years",
+"pqa_class_age_6","6 years",
+"pqa_class_assistants","Number of teaching assistants","Open ended"
+"pqa_environment_areas","During playtimes the room is divided into learning areas/interest centres.",
+"pqa_environment_variety","There are enough and varied materials for play and learning indoors.",
+"pqa_environment_appropriate","Materials for play and learning are developmentally appropriate for 4 – 5 year olds.",
+"pqa_environment_accessible","Materials are accessible and safe for children.",
+"pqa_environment_open","There are open ended materials (blocks, bottle tops, cloths, make believe, bo...",
+"pqa_environment_outdoor","Outdoor materials and equipment (small and large) to encourage development o...",
+"pqa_score_environment","Score Learning Environment: environment_areas + environment_variety + environmen","Open ended"
+"pqa_assessment_observation","Children are observed to inform planning and support needs.",
+"pqa_assessment_systematic","Each child’s progress is regularly and systematically monitored in an infor...",
+"pqa_score_assessment","Score Assessment for Learning and Teaching: assessment_observation + assessment_","Open ended"
+"pqa_relationships_peers","Practitioner promotes and encourages positive interaction among children.",
+"pqa_relationships_staff","Staff child interaction warm, interested individualised and respectful, sensi...",
+"pqa_relationships_acknowledge","Children’s efforts and ideas acknowledged.",
+"pqa_relationships_discipline","Positive discipline (no physical punishment, yelling, shaming, withholding fo...",
+"pqa_score_relationships","Score Relationships & Interactions","Open ended"
+"pqa_curriculum_ncf","Learning programme is guided by the NCF ELDAs and aim and phase specific developmental guidelines. Well-being (health), identity and belonging (social and emotional), communication, exploring mathematics, knowledge of the world, creativity.",
+"pqa_curriculum_plan","Practitioner organises activities according to an integrated weekly and daily plan.",
+"pqa_curriculum_balance","Programme includes a balance of  free play (indoor and outdoor), small group (scheduled times for a few children with practitioner)  and whole group activities (ring time, story, music).        Review daily schedule.",
+"pqa_curriculum_numeracy","Programme includes numeracy and mathematics activities(counting - rote and with concrete resources, shapes, opportunities to compare, sort and match) and maths is used in daily events.",
+"pqa_curriculum_literacy","Programme includes language and literacy activities.",
+"pqa_score_curriculum","Score Curriculum","Open ended"
+"pqa_teaching_choice","During free choice times practitioners allow children to have a high level of choice about what to play and what materials to use. Practitioners do not give instructions to children concerning their choice of activities or playmates.",
+"pqa_teaching_engagement","Staff move around and engage with children during playtime and use a range of...",
+"pqa_teaching_participation","Group times which are practitioner directed allow for child participation.",
+"pqa_teaching_questions","Staff ask open ended questions to extend children’s thinking.",
+"pqa_teaching_support","Staff support children’s emotional and social development: opportunities fo...",
+"pqa_score_teaching","Score Teaching Strategies","Open ended"
+"pqa_class","Class","Open ended"
+"pri_fees_free","Are some children allowed to attend the ECD programme without having to pay a...",
+"pra_free_play","How much time is there for free play as part of the daily programme?",
+"pra_free_play_outdoor","How much time is there for free play when the children are outside?",
+"pra_groupings","In what groupings do children typically do activities?","Open ended"
+"pra_groupings_1","Individually/alone",
+"pra_groupings_2","One on one with adult",
+"pra_groupings_3","In pairs",
+"pra_groupings_4","In small groups",
+"pra_groupings_5","In whole class group",
+"pra_engaged","How often do practitioners join in childrens play to help them learn?",
+"obs_area_1","Art (draw, paint, cut, model etc)",
+"obs_area_2","Big blocks",
+"obs_area_3","Fantasy ( house + shop, clinic etc)",
+"obs_area_4","Educational toys and games",
+"obs_area_5","Maths area",
+"obs_area_6","Writing area",
+"obs_area_7","Nature/science/theme tables",
+"obs_area_8","Water and sand",
+"obs_area_0","None of these",
+"pra_plans","Can you see evidence of the following planning materials at the ECD Programme?","Open ended"
+"pra_plans_1","Daily and/or weekly activity planners",
+"pra_plans_2","Meal plans",
+"pra_plans_3","Curriculum",
+"pra_plans_0","None of these",
+"obs_access_disability","Does the facility provide the following support to children living with physi...","Open ended"
+"obs_access_disability_1","Ramp for wheelchair",
+"obs_access_disability_2","Handrails",
+"obs_access_disability_3","Suitable toilet / ablution facility",
+"obs_access_disability_4","Passages are clear",
+"obs_access_disability_5","Classrooms are accessible",
+"obs_access_disability_6","Class rooms are light enough for visually impaired children",
+"obs_access_disability_0","None of these",
+"pra_gender","Practitioners gender",
+"pra_experience","How many years have you been working in the ECD sector?","Open ended"
+"pra_class_present","Number of children present during observation","Open ended"
+"pra_date","Date","Open ended"
+"pra_class_size","How many children are enrolled in your class/group?","Open ended"
+"pra_class_attendance","On a typical weekday, how many children are present in your class?","Open ended"
+"pra_class_attendance_precovid","On a typical weekday, how many children were present in your class before the Covid pandemic?","Open ended"
+"pra_class_size_large","There are children in this class, which is unusually high. Plea...","Open ended"
+"pra_cohort","Which ages are in the class/group you are responsible for?","Open ended"
+"pra_cohort_0","0-11 months",
+"pra_cohort_1","1 year",
+"pra_cohort_2","2 years",
+"pra_cohort_3","3 years",
+"pra_cohort_4","4 years",
+"pra_cohort_5","5 years",
+"pra_cohort_6","6 years",
+"pra_class_language","Which language do you use most often when working with the children?",
+"pra_plan_4yrs","What do you use to plan your activities with the children aged 4 and younger?","Open ended"
+"pra_plan_4yrs_1","A plan provided by an NGO",
+"pra_plan_4yrs_2","A plan I got from another practitioner",
+"pra_plan_4yrs_3","A practitioner guide",
+"pra_plan_4yrs_4","The NCF Birth to Four",
+"pra_plan_4yrs_97","Other",
+"pra_plan_ncf","Is the plan aligned to the NCF from Birth to Four?",
+"pra_plan_5yrs","What do you use to plan your activities with the children aged 5 and older?","Open ended"
+"pra_plan_5yrs_1","A plan provided by an NGO",
+"pra_plan_5yrs_2","A plan I got from another practitioner",
+"pra_plan_5yrs_3","A practitioner guide",
+"pra_plan_5yrs_4","The CAPS Curriculum",
+"pra_plan_5yrs_5","Grade R toolkit/ Pizza box",
+"pra_plan_5yrs_97","Other",
+"pra_plan_approved","Has the plan been approved by the Department of Basic Education?",
+"pra_plan_4yrsother","What else do you use to plan your activities with the children aged 4 and younger?","Open ended"
+"pra_plan_5yrsother","What else do you use to plan your activities with the children aged 5 and older?","Open ended"
+"pra_job","What is your job title?",
+"pra_clearance_police","Do you have a Police Clearance certificate?",
+"pra_clearance_ncp","Do you have a National Child Protection Clearance Certificate (Form 29)?",
+"pra_salary","What is your gross monthly salary or stipend?",
+"pra_paid","Are you generally paid on time?",
+"pra_breadwinner","Are you the main income earner in the household in which you live?",
+"pra_hhsize","How many people live in the household in which you live (including yourself)?","Open ended"
+"pra_education","What is the HIGHEST qualification you have completed?",
+"pra_qualification","Do you have any of the following qualifications in ECD, specifically?","Open ended"
+"pra_qualification_1","Accredited skills programme",
+"pra_qualification_2","NQF Level 1: ECD",
+"pra_qualification_3","NQF Level 4: ECD",
+"pra_qualification_4","NQF Level 5: ECD",
+"pra_qualification_5","NQF Level 6 (National Diploma in Grade R, Higher Diploma in Education, Advanced",
+"pra_qualification_6","NQF Level 7 (Bachelor’s degree, Advanced diploma, B-Tech)",
+"pra_qualification_7","NQF Level 8 or 9 (Honours degree, Post-graduate diploma, Master’s degree etc)",
+"pra_qualification_97","Other",
+"pra_qualification_0","None",
+"pra_educationother","What is the HIGHEST qualification you have completed? (Other)","Open ended"
+"pra_qualificationother","Do you have any of the following qualifications in ECD, specifically? (Other)","Open ended"
+"pra_previous","In the 6 months before you started working at this ECD Programme, what were y...",
+"pra_ncf_training","Have you received any training on how to implement the National Curriculum Fr...",
+"pra_ncf_trainer","Who provided you with the training on how to implement the National Curriculu...","Open ended"
+"pra_ncf_trainer_1","The principal/ other practitioners at your Programme?",
+"pra_ncf_trainer_2","District DBE officials",
+"pra_ncf_trainer_3","ECD Forum",
+"pra_ncf_trainer_4","NGO",
+"pra_ncf_trainer_5","A training organisation",
+"pra_ncf_trainer_97","Other",
+"pra_ncf_trainerother","Who provided you with the training on how to implement the National Curriculu...","Open ended"
+"pra_learnership","Are you currently on a DBE learnership?",
+"pra_training","Have you received training on any of the following?","Open ended"
+"pra_training_1","Road to Health Booklet",
+"pra_training_2","Training in Health Promotion in ECD",
+"pra_training_3","Positive Parenting Awareness",
+"pra_training_4","Quality classroom practice",
+"pra_training_5","Emergent literacy",
+"pra_training_6","First Aid",
+"pra_training_0","None of these",
+"pra_special_training","Have you ever received training in identifying children with special needs?",
+"pra_special_referrals","Have you ever referred children with special needs to a health practitioner?",
+"pra_online_training","Have you done any ECD specific training online or using a mobile app?",
+"pra_online_training_details","What other online ECD training have you done?","Open ended"
+"pra_motivate_support","I feel supported in my work",
+"pra_motivate_recognition","I feel recognised for my work",
+"pra_motivate_mentoring","I regularly meet with people who provide mentoring and teaching support",
+"pra_agency_choice","Which one of these two statements do you agree with more?
+1. Children should choose their own learning activities in the classroom.
+2. Practitioners should be responsible for choosing the playing and learning activities for the children.",
+"pra_agency_explore","""Which one of these two statements do you agree with more?
+1. Children learn best by exploring new things on their own.
+2. Children learn best when new things are explained by the practitioner.""",
+"pra_agency_questions","""Which one of these two statements do you agree with more? 1. If the practitioner answers children’s questions, they will be more likely to get the correct answer. 2. If children answer their own questions, they will be more likely to understand.""",
+"pra_agency_understand","""Which one of these two statements do you agree with more? 1. It is better if children tell the practitioner when they don’t understand. 2. If children don’t understand, they should try to find the answer independently before asking the practitioner.""",
+"pra_agency_play","""Which one of these two statements do you agree with more? 1. Early learning is best when children are free to play with whatever they choose. 2. Play in the Programme should be connected to learning outcomes.""",
+"pra_agency_learn","""Which one of these two statements do you agree with more? 1. Children learn best from their peers. 2. Children learn best from the practitioner.""",
+"pra_agency_order","""Which one of these two statements do you agree with more? 1. It is important for the class to be orderly and quiet. 2. It is important for children to be free to talk and play.""",
+"pra_shape","What shape does the classroom have?",
+"pra_measure_rectangle_length","Length","Open ended"
+"pra_measure_rectangle_width","Width","Open ended"
+"pra_class_space","Size of Classroom","Open ended"
+"pra_class_space_small","This class is ${class_space}sqm, which is unusually small. Please check your measurements. If it is correct, please provide an explanation.","Open ended"
+"pra_class_space_large","This class is ${class_space}sqm, which is unusually large. Please check your measurements. If it is correct, please provide an explanation.","Open ended"
+"pra_ind","Data Indicator: Practitioner interview variables available",
+"pra_language","Which language do you most often speak at home?","Open ended"
+"pri_mobile","Is this ECD programme based at a specific location or does it move from place...",
+"pri_school","Is this ECD programme on the premises of a primary school?",
+"pri_holidays","Is the ECD Programme open during school holidays?",
+"pri_days","On how many days per week does the site operate?","Open ended"
+"pri_time_open_hours","At what time does the site usually <b>open</b>? Hours",
+"pri_time_open_minutes","At what time does the site usually <b>open</b>?: Minutes",
+"pri_time_close_hours","At what time does the site usually <b>close</b>?: Hours",
+"pri_time_close_minutes","At what time does the site usually <b>close</b>?: Minutes",
+"pri_calc_time_open","Opening Time","Open ended"
+"pri_calc_time_close","Closing Time","Open ended"
+"pri_year","In which year was the facility opened?","Open ended"
+"pri_separate","Does the ECD Programme offer separate classes for children in the different age groups?",
+"pri_language","What is the main language of learning and teaching?","Open ended"
+"pri_language_1","Afrikaans",
+"pri_language_2","English",
+"pri_language_3","IsiNdebele",
+"pri_language_4","IsiXhosa",
+"pri_language_5","IsiZulu",
+"pri_language_6","Sepedi",
+"pri_language_7","Setswana",
+"pri_language_8","Sesotho",
+"pri_language_9","Siswati",
+"pri_language_10","Tshivenda",
+"pri_language_11","Xitsonga",
+"pri_language_97","Other",
+"pri_languageother","What is the main language of learning and teaching? (Other)","Open ended"
+"pri_toys","Does this ECD Programme run a toy library?",
+"pri_aftercare","Does this ECD Programme offer aftercare to school-going children, after schoo...",
+"pri_fees","Do you charge fees?",
+"pri_fees_amount","What is the maximum monthly fee per child?","Open ended"
+"pri_facilities","Who owns the building or structure that the Programme is operating in?",
+"pri_land","Who owns the land the ECD Programme is located on?",
+"pri_facilitiesother","Who owns the facilities that the Programme is operating in? (Other)","Open ended"
+"pri_landother","Who owns the land the ECD Programme is located on? (Other)","Open ended"
+"pri_fundingother","What is the primary funding source of your ECD Services? (Other)","Open ended"
+"pri_transport","Does the programme offer transport for children?",
+"pri_meal","Which meals do the children eat at this ECD Programme?","Open ended"
+"pri_meal_1","Breakfast",
+"pri_meal_3","Lunch",
+"pri_meal_4","Dinner/Afternoon meal",
+"pri_meal_2","Snacks between meals",
+"pri_registered_partial","Is the ECD service registered as a partial care facility with the  Department of Social Development?",
+"pri_registered_programme","Is the ECD service registered for an ECD programme with the Department of Social Development?",
+"pri_registered_npo","Is the Programme registered as an NPO?",
+"pri_registered_dsd","Is the Programme registered with the Department of Social Development in any way other than as an NPO?",
+"pri_subsidy","Does the ECD Programme get the DSD subsidy?",
+"pri_network","Is the Programme part of a larger network or organisation comprising multiple ECD programmes?",
+"pri_dsd_year","In what year was the ECD Programme first registered with DSD?","Open ended"
+"pri_capacity","What is the official capacity for this ECD Programme according to the DSD partial care or programme registration?","Open ended"
+"pri_reason_register_year","There are at least ${count_register_year_school} children of school-going age (born in 2013 or 2014). Please go back and correct the number of learners (total and by age group) or explain why these children are registered with the ECD programme.","Open ended"
+"pri_attendance_usual","Is todays attendance normal, according to the practitioners?",
+"pri_precovid_attendance","Did more children use to attend the ECD before the start of COVID?",
+"pri_kitchen","Is the area for cooking and preparing meals <b>separated</b> from where the children are?",
+"pri_funding_6","Does the programme receive money from the following sources?: funding==Fees",
+"pri_funding_7","Does the programme receive money from the following sources?: funding==Government subsidy",
+"pri_funding_donations","Does the programme receive money from the following sources?: funding==Donations/Fundraising",
+"pri_funding_97","Does the programme receive money from the following sources?: funding==Other",
+"pri_attendance","In the past term, how many times a week on average has this child attended class",
+"pri_fees_exceptions","Are there any other exceptions to the fees amount for certain groups of children?",
+"pri_fees_paid_proportion","Last month, what proportion of parents paid the fees?",
+"pri_amount_funding_dsd","How much money does the programme receive from DSD subsidy per month?","Open ended"
+"pri_amount_funding_fees","How much money does the programme receive from fees per month?","Open ended"
+"pri_date","Date","Open ended"
+"pri_education","What is the HIGHEST qualification you have completed?",
+"pri_qualification","Do you have any of the following qualifications in ECD, specifically?","Open ended"
+"pri_qualification_1","Accredited skills programme",
+"pri_qualification_2","NQF Level 1: ECD",
+"pri_qualification_3","NQF Level 4: ECD",
+"pri_qualification_4","NQF Level 5: ECD",
+"pri_qualification_5","NQF Level 6 (National Diploma in Grade R, Higher Diploma in Education, Advanced",
+"pri_qualification_6","NQF Level 7 (Bachelor’s degree, Advanced diploma, B-Tech)",
+"pri_qualification_7","NQF Level 8 or 9 (Honours degree, Post-graduate diploma, Master’s degree etc)",
+"pri_qualification_97","Other",
+"pri_qualification_0","None",
+"pri_qualificationother","Do you have any of the following qualifications in ECD, specifically? (Other)","Open ended"
+"pri_founder","Who started the Programme?",
+"pri_founderother","Who else started the Programme?","Open ended"
+"pri_same_language","What proportion of children speak the same language at their homes as used during learning and teaching?",
+"pri_location","Where is the ECD Programme located?",
+"pri_locationother","What is the other location of the ECD Programme?","Open ended"
+"pri_library","Does this ECD Programme run a library (for books)?",
+"pri_dsd_conditional","What is the main reason why the programme is conditionally registered with the Department of Social Development?","Open ended"
+"pri_dsd_conditional_other","What is the other reason why the programme is conditionally registered with the DSD","Open ended"
+"pri_dsd_unregistered","What are the main reasons why the programme is not registered with the DSD?","Open ended"
+"pri_dsd_unregistered_other","What is the other reason why the programme is not registered with the DSD?","Open ended"
+"pri_registered_health","Does the programme have a Health Certificate?",
+"pri_zoning","Do you have the correct zoning/land use approval?",
+"pri_registered_cipc","Is the Programme registered with the Companies and Intellectual Property Commission?",
+"pri_network_type","What type of network or organisation is the ECD Programme a part of?","Open ended"
+"pri_network_type_1","An ECD Forum",
+"pri_network_type_2","An NGO",
+"pri_network_type_3","An Alliance/Association",
+"pri_network_type_97","Other",
+"pri_name_network_forum","What is the name of the Forum you are a part of?","Open ended"
+"pri_email_network_forum","What is the email address of the Forum you are a part of?","Open ended"
+"pri_name_network_ngo","What is the name of the NGO you are a part of?","Open ended"
+"pri_name_network_alliance","What is the name of the Alliance/ Association you are a part of?","Open ended"
+"pri_name_network_other","What is the name of the Other network you are a part of?","Open ended"
+"pri_children_4_6_years","Children aged 4-6 years old","Open ended"
+"pri_difficult_see",".Compared with children of the same age, how many children aged 4 and older have a lot of difficulty.....seeing?","Open ended"
+"pri_difficult_hear","Compared with children of the same age, how many children aged 4 and older have a lot of difficulty......hearing sounds like peoples voices/music?","Open ended"
+"pri_difficult_walk","Compared with children of the same age, how many children aged 4 and older have a lot of difficulty......walking?","Open ended"
+"pri_difficult_hold","Compared with children of the same age, how many children aged 4 and older have a lot of difficulty......holding a crayon in their hand?","Open ended"
+"pri_difficult_communicate","Compared with children of the same age, how many children aged 4 and older have a lot of difficulty......communicating with others?","Open ended"
+"pri_difficult_learn","Compared with children of the same age, how many children aged 4 and older have a lot of difficulty......learning things?","Open ended"
+"pri_support_dsd","In 2019, how many times did you receive a visit from someone from... Department of Social Development?",
+"pri_support_dbe","In 2019, how many times did you receive a visit from someone from...Department of Basic Education?",
+"pri_support_municipality","In 2019, how many times did you receive a visit from someone from...Municipality?",
+"pri_support_ngo","In 2019, how many times did you receive a visit from someone from...NGO/Training organisation?",
+"pri_firstaid","Is at least one of the staff trained in first aid procedures?",
+"pri_staff_employed","How many staff have you employed this year compared to previous years?",
+"pri_staff_changes_reasons","What are the reasons for the change in staff numbers?","Open ended"
+"pri_staff_changes_reasonsother","What are the other reasons for the change in staff numbers?","Open ended"
+"pri_covid_staff_retrench","How many staff members did you have to lay off last year?","Open ended"
+"pri_covid_staff_salaries","Have you been able to pay existing staff their normal salaries?",
+"pri_bank","Is there a bank account in the name of the ECD Programme?",
+"pri_money","How else do you manage the programmes money?","Open ended"
+"pri_money_1","Cash",
+"pri_money_2","Mobile banking (e.g. MTN MoMo, FNB eWallet, or Standard Bank's WeChat Wallet)",
+"pri_money_3","Retail banking (e.g. money transfers via PicknPay, Shoprite, or PEP stores)",
+"pri_money_97","Other",
+"pri_money__1","Don't know",
+"pri_funding_1","Subsidy from DSD",
+"pri_funding_2","Subsidy from DBE",
+"pri_funding_3","Subsidy from DOH",
+"pri_funding_4","Donations",
+"pri_funding_5","Fund raising",
+"pri_funding_none","No income",
+"pri_moneyother","In what other ways do you manage the programmes money?","Open ended"
+"pri_funding_salary","Does any other organisation contribute to the salaries/stipends of your staff?","Open ended"
+"pri_funding_salary_1","Community works programme",
+"pri_funding_salary_2","Expanded public works programme",
+"pri_funding_salary_3","Learnership programme",
+"pri_funding_salary_4","YES Initiative",
+"pri_funding_salary_97","Other",
+"pri_funding_salary_0","None",
+"pri_funding_food","Does any other organisation contribute to the meals or snacks that is provide...",
+"pri_funding_salaryother","What OTHER organisation contributes to the salaries/stipends of your staff?","Open ended"
+"pri_fees_amount_0_1","What is the maximum amount per child per month that parents pay for children aged 0-1 years?","Open ended"
+"pri_fees_amount_2_3","What is the maximum amount per child per month that parents pay for children aged 2-3 years?","Open ended"
+"pri_fees_exceptions_other","What are the other exceptions to the fees amount for certain groups of children?","Open ended"
+"pri_expense_food","What is the amount per month that the Programme spends on the following items?: Food","Open ended"
+"pri_expense_staff","What is the amount per month that the Programme spends on the following items? Salaries/stipends","Open ended"
+"pri_expense_rent","What is the amount per month that the Programme spends on the following items? Rent","Open ended"
+"pri_expense_materials","What is the amount per month that the Programme spends on the following items?Child and Practitioner Support Materials","Open ended"
+"pri_expense_maintenance","What is the amount per month that the Programme spends on the following items? Lighting, heating, cooking, water, sanitation, maintenance and building costs","Open ended"
+"pri_expense_admin","What is the amount per month that the Programme spends on the following items?Administration, safety and security","Open ended"
+"pri_expense_other","What is the amount per month that the Programme spends on the following items? Other Expenses","Open ended"
+"pri_expenseother","What are the other expenses the Programme spends money on?","Open ended"
+"pri_covid_fund_applied","Have you applied for the DSD Covid Support Fund?",
+"pri_covid_fund_received","Have you received support from the DSD Covid Support Fund?",
+"pri_clinic_time","How many minutes does it take you to get to the nearest clinic by transport?","Open ended"
+"pri_clinic_travel","How do you usually travel to the nearest clinic?","Open ended"
+"pri_clinic_travel_1","Own vehicle",
+"pri_clinic_travel_2","Friend/family's vehicle",
+"pri_clinic_travel_3","Public transport",
+"pri_clinic_travel_4","On foot",
+"pri_clinic_travel_5","Bicycle",
+"pri_clinic_travel_97","Other",
+"pri_health_1","Vision screening",
+"pri_health_2","Hearing screening",
+"pri_health_3","Developmental screening",
+"pri_health_4","Immunisations",
+"pri_health_5","Deworming",
+"pri_health_97","Other",
+"pri_health_0","None of these",
+"pri_clinic_travelother","How do you usually travel to the nearest clinic? (Other)","Open ended"
+"pri_covid_awareness","What COVID-19 related awareness activities do you do?","Open ended"
+"pri_covid_awareness_1","Personal hygiene education for children (e.g., washing hands, not touching face,",
+"pri_covid_awareness_2","Social distancing training for children and staff",
+"pri_covid_awareness_3","Training of staff re screening and cleaning protocols",
+"pri_covid_awareness_4","Communications with caregivers/parents re precautions, school protocols",
+"pri_covid_awareness_97","Other",
+"pri_covid_precautions","What COVID-19 precautions do you use to screen and prevent infection?","Open ended"
+"pri_covid_precautions_1","Fever/symptoms check on arrival",
+"pri_covid_precautions_2","Sanitising equipment/materials",
+"pri_covid_precautions_3","Frequent hand washing in clean water with soap and no towels",
+"pri_covid_precautions_4","Taking care with tooth brushes (not touching where stored/correctly labelled)",
+"pri_covid_precautions_5","Organizing classroom/playground set-up so as to maximize social distancing whene",
+"pri_covid_precautions_6","Staggering pick up/drop-off/nap times",
+"pri_covid_precautions_97","Other",
+"pri_covid_awareness_other","What otherCOVID-19 related awareness activities do you do?","Open ended"
+"pri_covid_precautions_other","What other COVID-19 precautions do you use to screen and prevent infection?","Open ended"
+"pri_food_parents_breakfast","Breakfast",
+"pri_food_parents_morning","Morning snack",
+"pri_food_parents_lunch","Lunch",
+"pri_food_parents_afternoon","Afternoon snack",
+"pri_food_guidance","Does the programme provide any guidance on the kind of food that parents send?",
+"pri_food_type","Which of the following food types are provided on the day of the baseline assessments?","Open ended"
+"pri_food_type_1","Carbohydrates (e.g. bread, rice, samp, potatoes, etc)",
+"pri_food_type_2","Proteins (e.g. milk, meat, fish, eggs, soy, beans, lentils, etc)",
+"pri_food_type_3","Fruits (e.g. apples, oranges, bananas, etc)",
+"pri_food_type_4","Vegetables (e.g. beans, peas, carrots, cabbage, etc)",
+"pri_food_type_5","Fresh or vitamin-enriched juice/ Vitamin drink",
+"pri_food_type_0","None of these",
+"pri_food_donation","Does the Programme receive food donations?",
+"pri_food_donor","From whom does the programme receive the food donations?","Open ended"
+"pri_food_donorother","From whom else does the programme receive food donations?","Open ended"
+"pri_refrigerator","Does the Programme have refrigeration facilities?",
+"pri_garden","Is there a food garden at the Programme?",
+"pri_meal_prep","Who is responsible for preparing the meals?",
+"pri_parents_frequency","How often do you meet with parents to discuss their child’s progress?",
+"pri_parents_contact","In the last 3 months, have any parents or caregivers contacted you to discuss their child?",
+"pri_parents_activities","In the last 3 months, have any parents or caregivers asked you about activities they can do with their children at home?",
+"pri_records","Do you keep records of the following?","Open ended"
+"pri_records_1","Children’s home background details",
+"pri_records_2","Children’s grant information",
+"pri_records_3","Children’s road to health booklets/ immunisation schedules",
+"pri_records_4","Attendance records",
+"pri_records_5","Child progress reports",
+"pri_records_0","None of these",
+"pri_support","Have you received any on-site support on what daily activities/ games/ routin...",
+"pri_support_provider","Who provided you with the support?","Open ended"
+"pri_support_provider_1","The principal/other practitioners at your Programme",
+"pri_support_provider_2","District DBE officials",
+"pri_support_provider_3","ECD Forum",
+"pri_support_provider_4","NGO",
+"pri_support_provider_5","A training organisation",
+"pri_support_provider_97","Other",
+"pri_support_providerother","Who provided you with the support? (Other)","Open ended"
+"pri_support_frequency","How often do you receive on-site support?",
+"pri_fees_amount_4_6","What is the maximum amount per child per month that parents pay for children aged 4-6 years?","Open ended"
+"pri_internet_user","Is there internet available for the following?:","Open ended"
+"pri_funding_subsidy","Receives govt subsidy (DBE, DSD / DOH)","Open ended"
+"pri_meals","Does the Programme provide meals/snacks for the children?",
+"sef_ind","Data Indicator: Teacher SEF rating of child available",
+"teacher_duration","Teacher SEF duration in minutes","Open ended"
+"teacher_social_peers","Does the child work well with peers (can wait for their turn/manage impulsivi...",
+"teacher_social_nonaggressive","Does the child resolve problems with peers without becoming aggressive?",
+"teacher_social_cooperate","Does the child cooperate with peers without prompting?",
+"teacher_social_assistance","Does the child seek out assistance or support from familiar adults?",
+"teacher_social_ideas","Does the child seek a familiar adults ideas or explanations about events or e...",
+"teacher_social_initiative","Does the child take initiative in creating cooperative activities with a fami...",
+"teacher_emotional_understand","Is it easy to understand what the child is saying?",
+"teacher_emotional_appropriate","Does the child express needs and feelings appropriately?",
+"teacher_emotional_independent","Is the child independent, does the child like to do things without help?",
+"teacher_emotional_adjust","Does the child adjust well to changes in the classroom or home routine?",
+"teacher_emotional_confidence","Does the child approach new experiences confidently, without fear?",
+"teacher_emotional_selfstarter","Is the child a self starter?",
+"teacher_social_total","Total: Teacher social rating","Open ended"
+"teacher_selfcare_total","Total: Teacher self-care rating","Open ended"
+"teacher_social_met","Social relations with peers and adults",
+"teacher_emotional_total","Total: Teacher Emotional","Open ended"
+"teacher_emotional_met","Emotional Readiness for School",
+"teacher_selfcare_met","Category for self-care",
+"hle_ecd_other","Description of Other means.","Open ended"
+"hle_ind","Data Indicator: HLE interview variables available",
+"ses_proxy","SES proxy (using ELP fee and DBE quintile where missing)",
+"quintile_used","DBE quintile used to proxy SES (ses_proxy)",
+"id_facility_n","Number of children assessed in facility",
+"id_ward_n","Number of children assessed in ward",
+"id_mn_n","Number of children assessed in mn",
+"id_dc_n","Number of children assessed in dc",
+"id_prov_n","Number of children assessed in prov",
+"obs_access_disability","Facility provides support to children living with physical disability",
+"obs_lighting_8","lighting==Paraffin",
+"language_assessment_w2","Language of assessment",
+"child_attends","Does child attend an ECD programme?",
+"child_attendance","How many days per week does the child attend the ECD programme",
+"child_languages","Child home language(s)",
+"pri_fees_amount_pv","Facility monthly fee (present value)",
+"pri_languages","Main language(s) of learning and teaching?",
